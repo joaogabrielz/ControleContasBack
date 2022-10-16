@@ -1,0 +1,13 @@
+{
+  "development": {
+    "host": "localhost",
+    "port": "3000",
+    "database": {
+      "user": "jg",
+      "password": "forbbiden",
+      "protocol": "mongodb+srv",
+      "host": "cluster0.swgjbtt.mongodb.net",
+      "name": "fao-online-db"
+    }
+  }
+}
